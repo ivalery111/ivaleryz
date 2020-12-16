@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello there!  
+I'm a Software Engineer, currently working on the development of network software on C/C++ for Linux kernel/userspace. 
 
 <!--
 **ivaleryz/ivaleryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
